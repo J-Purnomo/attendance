@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Attendance</string>
+    <string name="tv_inform_login">Belum memiliki akun? \nSilahkan hubungi Sub Bagian Kepegawaian!</string>
+    <string name="tv_copyright"><![CDATA[2023 © Copyright : Teknologi & Informasi RSUD Cileungsi Kabupaten Bogor]]></string>
+    <string name="tv_login">LOGIN</string>
+    <string name="tv_welcome_desc">ABSENSI DIGITAL PEGAWAI</string>
+    <string name="todo">TODO</string>
+    <string name="masukkan_nip_anda">Masukkan NIP Anda</string>
+    <string name="masukkan_kata_sandi_anda">Masukkan Kata Sandi Anda</string>
+    <string name="logout">LOGOUT</string>
+    <string name="logo_rsud">logo_rsud</string>
+    <string name="masuk">MASUK</string>
+    <string name="pulang">PULANG</string>
+</resources>
